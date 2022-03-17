@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/alex%20goodman-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/alexgoodman87/)](https://www.linkedin.com/in/alexgoodman87/)
 
-- 🔭 I’m currently working at [@anchore](https://github.com/anchore) as Tech Lead on the Tools & Intergations team.
+- 🔭 I’m currently working at [@anchore](https://github.com/anchore) as Tech Lead on the OSS team.
 - 🌱 I'm a maintainer on [dive](https://github.com/wagoodman/dive), [syft](https://github.com/anchore/syft), [grype](https://github.com/anchore/grype), [stereoscope](https://github.com/anchore/stereoscope), [chronicle](https://github.com/anchore/chronicle), and [more](https://github.com/wagoodman?tab=repositories&q=&type=source&language=&sort=).
 <br>
 <p align="center">
